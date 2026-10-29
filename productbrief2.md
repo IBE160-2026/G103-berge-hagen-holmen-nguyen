@@ -5,7 +5,7 @@
 **Working title:** TripWeaver AI  
 **Core technology:** Large Language Models (LLMs), intelligent scheduling, real-time travel data, mapping services, weather forecasting, and multi-platform booking integration.
 
-\---
+
 
 ## 1\. Project Overview
 
